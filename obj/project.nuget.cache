@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oqn+bNtrIrvoFMW5lE0gc8m4H/3Pqih88iKzk6FfcvaAR/5jVNWSvIiMd8EklEr0Locm2YolRu5bom7nNGXONw==",
+  "dgSpecHash": "Yw/o/A1GTooq1X0jMmZXkAPbQRptbPXyYi0FYtfoEoMG2U1OiNX1E/hjJ+yu/TtjREgn8iW3MDNcJ/Fju9d6Hg==",
   "success": true,
-  "projectFilePath": "/home/dylan/git/dotnet-rest-api/dotnet-rest-api/dotnet-rest-api.csproj",
+  "projectFilePath": "/home/dylan/git/dotnet-rest-api/dotnet-rest-api.csproj",
   "expectedPackageFiles": [
     "/home/dylan/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "/home/dylan/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0/microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",

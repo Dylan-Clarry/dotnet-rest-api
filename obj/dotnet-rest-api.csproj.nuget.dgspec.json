@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dylan/git/dotnet-rest-api/dotnet-rest-api/dotnet-rest-api.csproj": {}
+    "/home/dylan/git/dotnet-rest-api/dotnet-rest-api.csproj": {}
   },
   "projects": {
-    "/home/dylan/git/dotnet-rest-api/dotnet-rest-api/dotnet-rest-api.csproj": {
+    "/home/dylan/git/dotnet-rest-api/dotnet-rest-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dylan/git/dotnet-rest-api/dotnet-rest-api/dotnet-rest-api.csproj",
+        "projectUniqueName": "/home/dylan/git/dotnet-rest-api/dotnet-rest-api.csproj",
         "projectName": "dotnet-rest-api",
-        "projectPath": "/home/dylan/git/dotnet-rest-api/dotnet-rest-api/dotnet-rest-api.csproj",
+        "projectPath": "/home/dylan/git/dotnet-rest-api/dotnet-rest-api.csproj",
         "packagesPath": "/home/dylan/.nuget/packages/",
-        "outputPath": "/home/dylan/git/dotnet-rest-api/dotnet-rest-api/obj/",
+        "outputPath": "/home/dylan/git/dotnet-rest-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dylan/.nuget/NuGet/NuGet.Config"
